@@ -16,6 +16,14 @@ Prototype of a project that creates forms for the web, which aims to be open sou
 **Link repositorio codigo fuente:
 [Web Form Creator Elinv (Source Code)](https://github.com/Elinv/elinv)  **
 
+# _Nuevo_
+➖➖➖➖➖➖➖➖<br>
+Agregado la posibilidad de ver al instante, <br>
+el código de cada control creado o editado.<br>
+Con edición del control y del código resultante <br>
+para su creación en tiempo real y a la vista.<br>
+➖➖➖➖➖➖➖➖<br>
+
 # 🟡 Description:
 ➖➖➖➖➖➖➖➖<br>
 🟩 Funciona necesariamente con JavaScript habilitado.<br>
